@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_all_member">View All Member</string>
+    <string name="title_activity_view_member">View Member</string>
+</resources>
